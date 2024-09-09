@@ -1,5 +1,5 @@
 
-```markdown
+---
 # MySQL and phpMyAdmin Docker Compose Setup
 
 This repository provides a Docker Compose setup for running MySQL along with phpMyAdmin for database management. This configuration allows you to easily deploy both MySQL and phpMyAdmin containers, facilitating a smooth database management experience.
@@ -56,3 +56,5 @@ If you prefer using Adminer as an alternative administrative tool, you can uncom
    docker compose down
    ```
 
+
+---

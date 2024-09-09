@@ -1,5 +1,5 @@
 
-```markdown
+---
 # PostgreSQL and pgAdmin Docker Compose Setup
 
 This repository provides a Docker Compose setup for running PostgreSQL along with pgAdmin for database management. The configuration allows you to easily spin up both PostgreSQL and pgAdmin containers, facilitating a smooth database management experience.
@@ -61,3 +61,5 @@ If you prefer using Adminer as an alternative administrative tool, you can uncom
    docker compose down
    ```
 
+
+---
