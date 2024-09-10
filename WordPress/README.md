@@ -1,6 +1,6 @@
 
 
-```markdown
+---
 # WordPress Docker Setup
 
 This Docker Compose configuration allows you to run a WordPress site with a MySQL database and phpMyAdmin for database management. The setup consists of three services:
