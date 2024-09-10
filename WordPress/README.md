@@ -117,7 +117,4 @@ This will stop the services and delete the volumes used for WordPress and MySQL.
 
 ---
 
-Happy WordPress development! 🚀
-```
-
 
